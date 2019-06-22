@@ -1,0 +1,9 @@
+C:\Angular7C\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.deps.json
+C:\Angular7C\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.dll
+C:\Angular7C\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.pdb
+C:\Angular7C\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.csprojAssemblyReference.cache
+C:\Angular7C\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.csproj.CoreCompileInputs.cache
+C:\Angular7C\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.AssemblyInfoInputs.cache
+C:\Angular7C\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.AssemblyInfo.cs
+C:\Angular7C\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.dll
+C:\Angular7C\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.pdb
